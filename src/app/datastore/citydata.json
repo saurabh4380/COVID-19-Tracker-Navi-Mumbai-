@@ -1,0 +1,290 @@
+[
+  {
+    "id": 316,
+    "name": "Digha",
+    "positive": 1,
+    "recovered": 1,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 315,
+    "name": "Airoli",
+    "positive": 20,
+    "recovered": 5,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 313,
+    "name": "Koparkhairane",
+    "positive": 8,
+    "recovered": 12,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 314,
+    "name": "Ghansoli",
+    "positive": 3,
+    "recovered": 14,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 312,
+    "name": "Turbhe",
+    "positive": 6,
+    "recovered": 4,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 311,
+    "name": "Vashi",
+    "positive": 9,
+    "recovered": 11,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 309,
+    "name": "Belapur",
+    "positive": 11,
+    "recovered": 7,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 310,
+    "name": "Nerul",
+    "positive": 22,
+    "recovered": 3,
+    "covidreportid": 157,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z"
+  },
+  {
+    "id": 307,
+    "name": "Airoli",
+    "positive": 12,
+    "recovered": 3,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 305,
+    "name": "Koparkhairane",
+    "positive": 7,
+    "recovered": 8,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 303,
+    "name": "Vashi",
+    "positive": 8,
+    "recovered": 4,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 302,
+    "name": "Nerul",
+    "positive": 15,
+    "recovered": 7,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 306,
+    "name": "Ghansoli",
+    "positive": 7,
+    "recovered": 7,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 308,
+    "name": "Digha",
+    "positive": 1,
+    "recovered": 6,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 304,
+    "name": "Turbhe",
+    "positive": 7,
+    "recovered": 1,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 301,
+    "name": "Belapur",
+    "positive": 18,
+    "recovered": 6,
+    "covidreportid": 156,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z"
+  },
+  {
+    "id": 299,
+    "name": "Airoli",
+    "positive": 7,
+    "recovered": 4,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 293,
+    "name": "Belapur",
+    "positive": 19,
+    "recovered": 17,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 295,
+    "name": "Vashi",
+    "positive": 12,
+    "recovered": 6,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 297,
+    "name": "Koparkhairane",
+    "positive": 5,
+    "recovered": 8,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 296,
+    "name": "Turbhe",
+    "positive": 8,
+    "recovered": 3,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 298,
+    "name": "Ghansoli",
+    "positive": 4,
+    "recovered": 5,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 294,
+    "name": "Nerul",
+    "positive": 9,
+    "recovered": 5,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 300,
+    "name": "Digha",
+    "positive": 0,
+    "recovered": 2,
+    "covidreportid": 155,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z"
+  },
+  {
+    "id": 290,
+    "name": "Ghansoli",
+    "positive": 1,
+    "recovered": 3,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 289,
+    "name": "Koparkhairane",
+    "positive": 9,
+    "recovered": 9,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 291,
+    "name": "Airoli",
+    "positive": 4,
+    "recovered": 3,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 286,
+    "name": "Nerul",
+    "positive": 6,
+    "recovered": 8,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 285,
+    "name": "Belapur",
+    "positive": 21,
+    "recovered": 5,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 287,
+    "name": "Vashi",
+    "positive": 7,
+    "recovered": 11,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 288,
+    "name": "Turbhe",
+    "positive": 3,
+    "recovered": 2,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  },
+  {
+    "id": 292,
+    "name": "Digha",
+    "positive": 0,
+    "recovered": 0,
+    "covidreportid": 154,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z"
+  }
+]

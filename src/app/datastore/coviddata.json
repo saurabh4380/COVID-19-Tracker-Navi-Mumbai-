@@ -1,0 +1,54 @@
+[
+  {
+    "id": 157,
+    "positive": 80,
+    "totalpositive": 105556,
+    "recovered": 57,
+    "totalrecovered": 102949,
+    "active": 697,
+    "deceased": 2,
+    "totaldeceased": 1910,
+    "modificationdate": "2021-09-04T14:26:40.759Z",
+    "creationdate": "2021-09-04T14:26:40.759Z",
+    "totaltested": 1648112
+  },
+  {
+    "id": 156,
+    "positive": 75,
+    "totalpositive": 105476,
+    "recovered": 42,
+    "totalrecovered": 102892,
+    "active": 676,
+    "deceased": 2,
+    "totaldeceased": 1908,
+    "modificationdate": "2021-09-04T11:59:08.618Z",
+    "creationdate": "2021-09-02T18:30:00.000Z",
+    "totaltested": 1640352
+  },
+  {
+    "id": 155,
+    "positive": 64,
+    "totalpositive": 105401,
+    "recovered": 50,
+    "totalrecovered": 102850,
+    "active": 645,
+    "deceased": 3,
+    "totaldeceased": 1906,
+    "modificationdate": "2021-09-04T11:54:59.093Z",
+    "creationdate": "2021-09-01T18:30:00.000Z",
+    "totaltested": 1630883
+  },
+  {
+    "id": 154,
+    "positive": 51,
+    "totalpositive": 105337,
+    "recovered": 41,
+    "totalrecovered": 102800,
+    "active": 634,
+    "deceased": 1,
+    "totaldeceased": 1903,
+    "modificationdate": "2021-09-04T11:51:10.748Z",
+    "creationdate": "2021-08-31T18:30:00.000Z",
+    "totaltested": 1621856
+  }
+]

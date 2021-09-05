@@ -1,0 +1,53 @@
+<div class="container">
+    <p class="last-update mb-2 mt-4">Data last updated on {{cityData[0].creationdate | date:'dd MMMM yyyy, h:mm a'}}</p>
+    <div class="cityReport">
+
+        <table class="table table-striped">
+            <thead>
+                <th scope="col">City</th>
+                <th scope="col">Confirmed</th>
+                <th scope="col">Recovered</th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let city of cityData">
+                    <th scope="row">{{city.name}}</th>
+                    <td>{{city.positive}}</td>
+                    <td>{{city.recovered}}</td>
+                </tr>
+                <tr class="table-dark">
+                    <th scope="row">Total</th>
+                    <td>{{totalConfirmed}}</td>
+                    <td>{{totalRecovered}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <div>
+            <div style="display: flex;justify-content: center;">
+                <div class="form-check m-2">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" checked id="positive" (click)="changeChartData($event)" value="positive">
+                    <label class="form-check-label" for="positive">
+                        Positive
+                    </label>
+                </div>
+                <div class="form-check m-2">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="recovered" (click)="changeChartData($event)" value="recovered">
+                    <label class="form-check-label" for="recovered">
+                        Recovered
+                    </label>
+                </div>
+            </div>
+            <div>
+                <div class="chart">
+                    <canvas baseChart height="380px" width="380px" [plugins]="pieChartPlugins" [data]="pieChartData"
+                        [labels]="pieChartLabels" [chartType]="pieChartType" [options]="pieChartOptions"
+                        [colors]="pieChartColors" [legend]="pieChartLegend">
+                    </canvas>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
