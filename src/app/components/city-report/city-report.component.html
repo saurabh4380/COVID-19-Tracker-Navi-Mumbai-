@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div>
-                <div class="chart pieChart" (window:resize)="onResize($event)">
+                <div class="chart pieChart">
                     <canvas id = 'ChartTemp' baseChart [plugins]="pieChartPlugins" [data]="pieChartData"
                         [labels]="pieChartLabels" [chartType]="pieChartType" [options]="pieChartOptions"
                         [colors]="pieChartColors" [legend]="pieChartLegend">

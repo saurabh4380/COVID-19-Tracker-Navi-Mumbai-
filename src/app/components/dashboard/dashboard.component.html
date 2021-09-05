@@ -27,8 +27,8 @@
         <div class="totalTest card">
             <p class="fw-bold mb-3">TOTAL TESTED</p>
             <p class="fw-bold fs-5">{{dashBoardData.totaltested.toLocaleString()}}</p>
-            <p style="font-weight: 500;"><i [ngClass]="{'bi bi-arrow-up': dashBoardData.active > 0,
-                'bi bi-arrow-down': dashBoardData.active < 0}"></i>{{dashBoardData.tested.toLocaleString()}}</p>
+            <p style="font-weight: 500;"><i [ngClass]="{'bi bi-arrow-up': dashBoardData.totaltested > 0,
+                'bi bi-arrow-down': dashBoardData.totaltested < 0}"></i>{{dashBoardData.tested.toLocaleString()}}</p>
         </div>
     </div>
 
