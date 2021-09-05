@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CityData } from 'src/app/models/city-data.model';
 import { CoviddataService } from 'src/app/services/coviddata.service';
-import { ChartType, ChartOptions, Chart } from 'chart.js';
+import { ChartType, ChartOptions } from 'chart.js';
 import { Label } from 'ng2-charts';
 import ChartDataLabels from 'chartjs-plugin-datalabels';
 

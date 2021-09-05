@@ -33,6 +33,11 @@ label{
     cursor: pointer;
 }
 
+.pieChart{
+    width: 380px;
+    height: 380px;
+}
+
 
 /**********************Mobile Styling**********************/
 @media screen and (max-width:600px) {
@@ -43,5 +48,10 @@ label{
     .chart canvas{
         height: 350px;
         width: 350px;
+    }
+
+    .pieChart{
+        width: 300px;
+        height: 300px;
     }
 }
