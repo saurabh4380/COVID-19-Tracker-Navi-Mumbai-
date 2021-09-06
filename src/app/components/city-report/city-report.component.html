@@ -1,23 +1,23 @@
 <div class="container">
-    <p class="last-update mb-2 mt-4">Data last updated on {{cityData[0].creationdate | date:'dd MMMM yyyy, h:mm a'}}</p>
+    <p class="last-update mb-3 mt-4">City wise data last updated on {{cityData[0].creationdate | date:'dd MMMM yyyy, h:mm a'}}</p>
     <div class="cityReport">
 
-        <table class="table table-striped">
+        <table class="table table-hover">
             <thead>
-                <th scope="col">City</th>
-                <th scope="col">Confirmed</th>
-                <th scope="col">Recovered</th>
+                <th class="p-2" scope="col">City</th>
+                <th class="text-center p-2" scope="col">Confirmed</th>
+                <th class="text-center p-2" scope="col">Recovered</th>
             </thead>
             <tbody>
                 <tr *ngFor="let city of cityData">
                     <th scope="row">{{city.name}}</th>
-                    <td>{{city.positive}}</td>
-                    <td>{{city.recovered}}</td>
+                    <td class="text-center">{{city.positive}}</td>
+                    <td class="text-center">{{city.recovered}}</td>
                 </tr>
-                <tr class="table-dark">
+                <tr class="totalScore">
                     <th scope="row">Total</th>
-                    <td>{{totalConfirmed}}</td>
-                    <td>{{totalRecovered}}</td>
+                    <td class="text-center">{{totalConfirmed}}</td>
+                    <td class="text-center">{{totalRecovered}}</td>
                 </tr>
             </tbody>
         </table>
