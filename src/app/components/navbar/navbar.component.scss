@@ -3,14 +3,19 @@
     -moz-box-shadow: 0 8px 6px -6px #999;
     box-shadow: 0 8px 6px -6px #999;
     border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .activeLink{
     border-bottom: .2rem solid black; 
 }
 
+.navbar-toggler{
+    border: none;
+}
+
 .nm-logo{
-    max-width: 80px; 
-    max-height: 80px; 
+    max-width: 60px; 
+    max-height: 48px; 
     border-radius: 10px;
 }
