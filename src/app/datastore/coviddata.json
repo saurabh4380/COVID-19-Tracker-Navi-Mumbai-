@@ -1,5 +1,18 @@
 [
   {
+    "id": 160,
+    "positive": 46,
+    "totalpositive": 105712,
+    "recovered": 63,
+    "totalrecovered": 103154,
+    "active": 646,
+    "deceased": 1,
+    "totaldeceased": 1912,
+    "modificationdate": "2021-09-07T14:11:27.400Z",
+    "creationdate": "2021-09-07T14:11:27.400Z",
+    "totaltested": 1669491
+  },
+  {
     "id": 159,
     "positive": 51,
     "totalpositive": 105666,
