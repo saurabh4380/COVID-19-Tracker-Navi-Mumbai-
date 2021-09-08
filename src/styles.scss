@@ -7,7 +7,6 @@ html {
     scroll-behavior: smooth;
     box-sizing: border-box;
     font-size: 16px;
-    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -16,6 +15,7 @@ body {
 
 *, *:before, *:after {
     box-sizing: inherit;
+    font-family: 'Poppins', sans-serif;
   }
   
   body, h1, h2, h3, h4, h5, h6, p, ol, ul {
@@ -32,4 +32,5 @@ body {
     max-width: 100%;
     height: auto;
   }
+
 

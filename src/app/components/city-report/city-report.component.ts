@@ -55,6 +55,9 @@ export class CityReportComponent implements OnInit {
             const label = ctx.chart.data.labels[ctx.dataIndex];
             return label;
           },
+          font:{
+            family:"Poppins"
+          }
         },
       }
     
